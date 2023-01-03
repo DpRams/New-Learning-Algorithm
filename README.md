@@ -1,7 +1,7 @@
 # New-Learning-Algorithm
 
 ## Introduction
-Welcome to the course on New Learning Algorithms, a course on the latest techniques in machine learning offered by Professor Rua-Huan Tsaih at National Chengchi University (NCCU). In this course, you will learn about the cutting-edge learning algorithms and approaches used by researchers and practitioners to build intelligent systems that can learn from data.
+Welcome to the course on New Learning Algorithm, a course on the latest techniques in machine learning offered by Professor Rua-Huan Tsaih at National Chengchi University (NCCU). In this course, you will learn about the cutting-edge learning algorithms and approaches used by researchers and practitioners to build intelligent systems that can learn from data.
 
 ## Course objectives
 The goal of this course is to provide you with a solid foundation in modern machine learning techniques, as well as the ability to apply these techniques to real-world problems. By the end of this course, you will be able to:
